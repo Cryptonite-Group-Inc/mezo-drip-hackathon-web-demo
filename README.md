@@ -155,7 +155,7 @@ This is a demo project for hackathon purposes. Feel free to fork and expand upon
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- DRIP API Documentation (link to your API docs)
+- [DRIP API Documentation](https://api.drip.re/redocs)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs)
 
 ## About
