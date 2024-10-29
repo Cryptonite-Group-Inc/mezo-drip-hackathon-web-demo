@@ -44,8 +44,8 @@ A Next.js application demonstrating the integration capabilities of DRIP's point
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Cryptonite-Group-Inc/mezo-drip-hackaton-web-demo.git
-cd mezo-drip-hackaton-web-demo
+git clone https://github.com/Cryptonite-Group-Inc/mezo-drip-hackathon-web-demo.git
+cd mezo-drip-hackathon-web-demo
 ```
 
 2. Install dependencies:
